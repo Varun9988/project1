@@ -1,0 +1,522 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Open Sans,arial,tahoma,verdana,sans-serif;
+}
+#Header{
+    background-color: #f2f2f2;
+    height: 28px;
+}
+.Sub-Header .head{
+     border: 1px solid rgb(231, 75, 36);
+     font-size: 13px;
+     font-weight: 600;
+     background-color:rgb(231, 75, 36); 
+     color: #fff;
+     margin:50px;
+}
+.Sub-Header .rum{
+
+    font-size: 13px;
+    font-weight: 600;
+    color:rgb(51, 51, 51);
+    margin: -50px;
+}
+.Sub-Header .rb a{
+     text-decoration: none;
+     font-size: 10px;
+    font-weight: 100;
+    color: #828282;;
+    margin: 10px 2px;
+     position: relative;
+    left: 444px;
+    
+}
+.Sub-Header .rl a{
+    margin: 0px 210px;
+    text-decoration: none;
+    font-size: 10px;
+    color: rgb(51, 51, 51);
+    position: relative;
+    left: 231px;
+}
+                                /* -------------header two starts here -----------------*/
+ #Headerblock-1{
+     height: 50px;
+     width: 100%;
+     background-color: lightcyan;
+ }
+ .fas{
+    margin: 10px 86px;
+ }
+ .color{
+    font-family: fantasy;
+    margin: -79px;
+    font-size: 20px;
+    color: blue;
+ }
+ .color::after{
+     content:"tm";
+     color: #00b9f5;
+ }
+ input{
+    margin: 0px 92px;
+    width: 239px;
+    padding: 6px 50px;
+    border: none;
+    border-radius: 5px;
+    
+ }
+ input ::placeholder{
+     font-size: 17px;
+ }
+ input:focus{
+     outline: none;
+ }
+ .ml{
+     float:right;
+ }
+ .ml ul{
+     display: inline-flex;
+     list-style-type: none;
+     
+ }
+ .ml ul li{
+    margin: 1px 23px;
+    padding: 12px;
+    position: relative;
+    top: -34px;
+    left: -80px;
+ }
+ .ml ul li a{
+     text-decoration: none;
+     font-size: 13px;
+     color: black;
+ }
+ .ul .far{
+     position: relative;
+     top: 5px;
+     left: 338px;
+ }
+ .lu .fas{
+     position: relative;
+     left: 89px;
+     top: 5px;
+     font-weight: 100;
+ }
+ .img{
+     position: relative;
+     top: 10px;
+     left: -309px;
+     
+ }
+ .img-1{
+     position: relative;
+     top: 8px;
+     left: -190px;
+     height: 20px;
+     width: 30px;
+ }
+                                /* -----------header two ends here------------------ */
+ 
+                                /* -----------header three starts here-------------- */
+#Headerblock-2{
+    width: 100%;
+    height: 150px;
+    background-color: #012b72;
+
+}  
+.imgs .id{
+    font-weight: 200;
+    width: 39px;
+    position: relative;
+    left: 80px;
+    top: 10px;
+}   
+.imgs .id-10{
+    font-weight: 200;
+    width: 39px;
+    position: relative;
+    left: 770px;
+    top: 10px;
+}
+.imgs .id-9{
+    
+    font-weight: 200;
+    width: 39px;
+    position: relative;
+    left: 700px;
+    top: 10px;
+}
+.imgs .id-8{
+    font-weight: 200;
+    width: 39px;
+    position: relative;
+    left: 650px;
+    top: 10px;   
+}
+.imgs .id-7{
+    font-weight: 200;
+    width: 39px;
+    position: relative;
+    left: 580px;
+    top: 10px;
+}
+.imgs .id-6{
+    font-weight: 200;
+    width: 39px;
+    position: relative;
+    left: 500px;
+    top: 10px;
+}
+.imgs .id-5{
+    font-weight: 200;
+    width: 39px;
+    position: relative;
+    left: 404px;
+    top: 10px;
+}
+.imgs .id-4{
+    font-weight: 200;
+    width: 39px;
+    position: relative;
+    left: 336px;
+    top: 10px;
+}
+.imgs .id-3{
+    font-weight: 200;
+    width: 39px;
+    position: relative;
+    left:270px;
+    top: 10px;
+}
+.imgs .id-2{
+    font-weight: 200;
+    width: 39px;
+    position: relative;
+    left: 210px;
+    top: 10px;
+}
+.imgs .id-1{
+    font-weight: 200;
+    width: 39px;
+    position: relative;
+    left: 150px;
+    top: 10px;
+}
+.text .text-1 a{
+    color: white;
+    position: relative;
+    top: 10px;
+    left: 50px;
+    font-size: smaller;
+    text-decoration: none;
+}
+.text .text-2 a{
+    color: white;
+    position: relative;
+    top: 10px;
+    left: 80px;
+    font-size: smaller;
+    text-decoration: none;
+}
+.text .text-3 a{
+    color: white;
+    position: relative;
+    top: 10px;
+    left: 133px;
+    font-size: smaller;   
+    text-decoration: none;
+}
+.text .text-4 a{
+    color: white;
+    position: relative;
+    top: 10px;
+    left: 204px;
+    font-size: smaller;
+    text-decoration: none;
+}
+.text .text-5 a{
+    color: white;
+    position: relative;
+    top: 10px;
+    left: 276px;
+    font-size: smaller;
+    text-decoration: none;
+}
+.text .text-6 a{
+    color: white;
+    position: relative;
+    top: 10px;
+    left: 310px;
+    font-size: smaller;
+    text-decoration: none;
+}
+.text .text-7 a{
+    color: white;
+    position: relative;
+    top: 10px;
+    left: 353px;
+    font-size: smaller;
+    text-decoration: none;
+}
+.text .text-8 a{
+    color: white;
+    position: relative;
+    top: 10px;
+    left: 405px;
+    font-size: smaller;
+    text-decoration: none;
+
+}
+.text .text-9 a{
+    color: white;
+    position: relative;
+    top: 10px;
+    left: 457px;
+    font-size: smaller;
+    text-decoration: none;
+}
+.text .text-10 a{
+    color: white;
+    position: relative;
+    top: 10px;
+    left: 482px;
+    font-size: smaller;
+    text-decoration: none;
+}
+.text .text-11 a{
+    color: white;
+    position: relative;
+    top: 10px;
+    left: 500px;
+    font-size: smaller;
+    text-decoration: none;
+}
+.id-11 .fas{
+    color: white;
+    position: relative;
+    top: 8px;
+    left: 750px; 
+    text-decoration: none;  
+}
+/* .text .text-12 a{   
+    color: white;
+    position: relative;
+    top: 10px;
+    left: 526px;
+    font-size: smaller;
+    text-decoration: none;
+} */
+
+.ml ul li a:hover{
+      color: red;
+}
+.Sub-Header .rb a:hover{
+    color: purple;
+}
+.tria .fas{
+    width: 0;
+    left: 1219px;
+    top: -4px;
+    height: 0;
+    position: relative;
+    font-weight: 100;
+    color: white;
+    font-size: x-large;
+}
+.dropbtn{
+    background-color:  #012b72;
+    border: none;
+    font-size: smaller;
+    color: white;
+    position: relative;
+    top: -7px;
+    left: -11px;
+}
+.dropbtn:focus{
+    outline: none;
+}
+.dropdown{
+    position: relative;
+    display: inline-block;
+    float: right;
+}
+.dropdown-content{
+    display: none ;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 100px;
+    box-shadow: 0px 8px 16px 0px (0,0,0,0.2);
+    z-index: 1;
+    margin-left: -190px;
+    margin-top: 5px;
+}
+
+.dropdown-content a{
+    color: black;
+    padding: 10px 16px;
+    text-decoration: none;
+    display: block;
+}
+.dropdown-content a:hover{
+    background-color: #ddd;
+}
+.dropdown:hover .dropdown-content{
+    display: block;
+}
+.dropdown:hover .dropbtn{
+    background-color: #3e863e;
+}
+.dropdown-content img{
+    width: 25px;
+    height: 25px;
+    position: relative;
+    top: 5px;
+}
+.btn{
+    background-color: #012b72 ;
+    font-size: smaller;
+    border: none;
+    color: white;
+    position: relative;
+    left: 1192px;
+    top: -8px;
+}
+.btn:focus{
+    outline: none;
+}
+
+                                /* -----------header three ends here-------------- */
+                                /* ------------header four stars here--------- */
+.Headerblock-3{
+    width: 85%;
+    height: 180px;
+    background-color: white;
+    position: relative;
+    left: 103px;
+    top: -57px;
+}
+.level .hh{
+    position: relative;
+    top: 23px;
+    left: 15px;
+    color: black;
+}
+.vv .tt{
+    position: relative;
+    top: 126px;
+    left: -61px;
+    width: 128px;
+    box-shadow: 1px 2px 3px lightseagreen;
+    border: transparent;
+}
+.vv .tt::placeholder{
+   color: #999;
+}
+.vv .ll{
+    position: relative;
+    top: 126px;
+    left: -190px;
+    width: 128px;
+    box-shadow: 1px 2px 3px lightseagreen;
+    border: transparent;
+}
+.vv .ll::placeholder{
+    color: #999;
+}
+.vv .aa{
+    position: relative;
+    top: 100px;
+    left: -220px;
+    width: 153px;
+    float: right;
+    box-shadow: 1px 2px 3px lightseagreen;
+    border: transparent;
+}
+.vv .aa::placeholder{
+    color: #999;
+}
+.cc .dd a{
+    float: right;
+    position: relative;
+    top: 98px;
+    left: 119px;
+    text-decoration: none;
+    color: #00b9f5;
+    font-size: 12px;
+}  
+.cc .qq a{
+    float: right;
+    position: relative;
+    top: 111px;
+    left: 191px;
+    text-decoration: none;
+    color: #999;
+    font-size: 12px;
+}
+.cc .icon .far{
+    float: right;
+    position: relative;
+    top: 3px;
+    left: 320px;
+}
+.cc .icon-1 .fas{
+    float: right;
+    position: relative;
+    top: -6px;
+    left: 442px;
+    color: #00b9f5;
+
+}
+.cc .file{
+    float: right;
+    position: relative;
+    top: 4px;
+    left: 642px;
+    color: #00b9f5;
+}
+.cc .file-1{
+    float: right;
+    position: relative;
+    top: 20px;
+    left: 865px;
+    color: #999;
+    font-size: 12px;
+}
+.cc .block{
+    float: right;
+    position: relative;
+    top: 48px;
+    left: 844px;
+    background-color: #00b9f5;
+    border: 1px solid;
+    padding: 14px 32px;
+    color: white;
+    border-radius: 5px;
+}
+.one{
+    position: relative;
+    left: -185px;
+    top: 57px;
+}
+.radio-1{
+    position: relative;
+    top: 57px;
+    left: -388px;
+}
+.two{
+    position: relative;
+    top: 59px;
+    left: -585px;
+}
+.radio-2{
+    position: relative;
+    top: 57px;
+    left: -790px;
+}
+
+                                /* ------------header four ends here--------- */

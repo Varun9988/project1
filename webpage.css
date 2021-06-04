@@ -1,0 +1,153 @@
+*{
+    margin: 0;
+    padding:0;
+}
+body{
+    background-image: url('https://cdn.pixabay.com/photo/2017/09/29/13/36/river-2799103_960_720.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Exo 2', sans-serif;
+    
+}
+#header{
+    background-color:grey;
+    height: 80px;
+}
+.name{
+    position: relative;
+    left: 53px;
+    top: 25px;
+    font-size: 25px;
+    color: white;
+    font-weight: 300;
+}
+.name::after{
+    content: 'Ex';
+    color: orange;
+    position: relative;
+    left: -10px;
+    font-weight: 300;
+}
+.data{
+    text-align: center;
+    
+}
+.data ul{
+list-style-type: none;
+display: inline-flex;
+}
+.data ul li{
+    width: 101px;
+    margin: 20px;
+    padding: 5px;
+    }
+    .data ul li a{
+        text-decoration: none;
+        color: white;
+        position: relative;
+        top:-21px;
+        left:-39px;
+        
+    }
+    .fas{
+        color: white;
+    }
+    .data-1{
+       text-decoration: none;
+       float: right;
+       color: white;
+       position: relative;
+       top: 5px;
+       left: -273px;
+    }
+    .kk .fas{
+        float: right;
+    position: relative;
+    top: 2px;
+    left: 95px;
+    color: white;
+    }
+    .tube{
+        text-align: center;
+        color: blue;
+        font-size: 50px;
+        position: relative;
+        top: 10px;
+    }
+    .varun{
+        background-color: white;
+        height: 159px;
+        width: 200px;
+        position: relative;
+        top: 25px;
+        left: -225px;
+        margin: 10px auto;
+    }
+    .varun .fas{
+        color: black;
+        position: relative;
+        left: 87px;
+        top: 40px;
+        font-size: 30px;
+    }
+    .varun-1{
+        position: relative;
+        top: 82px;
+        left: 19px;
+    }
+    .siddu{
+        background-color: blue;
+        height: 189px;
+        width: 217px;
+        position: relative;
+        top: -158px;
+        left: -24px;
+        margin: 10px auto;
+    }
+    .siddu .fas{
+        color: white;
+        font-size: 30px;
+        position: relative;
+        left: 87px;
+        top: 45px;
+    }
+    .siddu-1{
+        left: 36px;
+    position: relative;
+    top: 87px;
+    font-size: 23px;
+    color: white;
+    }
+    .arvi{
+        background-color: white;
+        height: 159px;
+        width: 200px;
+        position: relative;
+        top: -343px;
+        left: 185px;
+        margin: 10px auto;
+    }
+    .arvi .fas{
+        color: black;
+        font-size: 30px;
+        position: relative;
+        left: 84px;
+        top: 40px;
+    }
+    .arvi-1{
+        color: black;
+    font-size: 25px;
+    position: relative;
+    left: 34px;
+    top: 82px;
+    }
+    .input{
+
+    position: relative;
+    top: -248px;
+    left: -25px;
+    width: 580px;
+     padding: 0px 50px;
+     margin: 0px 90px;
+    }
+   
